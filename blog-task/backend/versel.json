@@ -5,7 +5,7 @@
 
         {
 
-        "src": "blog-task/backend/index.js",
+        "src": "blog-task/frontend/index.js",
 
         "use": "@vercel/node"
 
