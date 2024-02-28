@@ -1,11 +1,11 @@
 {
         "version":2,
-
+        "name":"blog-app",
     "builds": [
 
         {
 
-        "src": "./index.js",
+        "src": "blog-task/backend/index.js",
 
         "use": "@vercel/node"
 
